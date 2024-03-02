@@ -1,5 +1,4 @@
-# About me
-### Hi there
+#Introduction
 <h1 align="center">Hi 👋, I'm Edison Velazco</h1>
 <h3 align="center">A passionate Data Analyst Junior from Peru 🇵🇪 PE</h3>
 
