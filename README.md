@@ -1,7 +1,7 @@
 # About me
 ### Hi there
 <h1 align="center">Hi 👋, I'm Edison Velazco</h1>
-<h3 align="center">A passionate Data Analyst Junior from Peru 🇵🇪 PE</h3>
+<h3 align="center">A passionate Data Analyst Junior from Peru 🇵🇪 </h3>
 
 - 🔭 I’m currently working on **Sentiment analysis of state supplier contracting evaluation.**
 
